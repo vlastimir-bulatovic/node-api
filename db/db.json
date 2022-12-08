@@ -348,21 +348,21 @@
   ],
   "users": [
     {
+      "role": 2,
       "email": "dev@dev.com",
       "password": "$2a$10$Ht9ATCnB3LhyEpPg.c/GOuLzkMYD2WRPZ3ZtFVP.uVCrx.nW/rwVq",
       "name": "Developer",
       "surname": "Developeric",
       "age": 404,
-      "role": 2,
       "id": 1
     },
     {
+      "role": 1,
       "email": "admin@admin.com",
-      "password": "$2a$10$Ht9ATCnB3LhyEpPg.c/GOuLzkMYD2WRPZ3ZtFVP.uVCrx.nW/rwVq",
+      "password": "$2y$10$Vu5ushPkcZ877sCb9sm7OeNVHrHch8Q2UuIzd5S8Rs18asVz/0rdC",
       "name": "Admin",
       "surname": "Admic",
       "age": 500,
-      "role": 1,
       "id": 2
     }
   ]
